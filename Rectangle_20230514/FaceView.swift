@@ -27,7 +27,7 @@ struct FaceView: View {
                     .frame(width: 50, height: 20)
                 Rectangle()
                     .foregroundColor(.black)
-                    .frame(width: 100, height: 80)
+                    .frame(width: 100, height: 90)
             }
             
         }
